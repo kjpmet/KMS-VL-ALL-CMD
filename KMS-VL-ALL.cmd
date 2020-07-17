@@ -1,4 +1,5 @@
 @echo off
+title BCL Office Activation (VL) 
 set /a _Debug=0
 ::==========================================
 :: Get Administrator Rights
